@@ -1,0 +1,20 @@
+{
+  "name": "backend_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node interview.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vansh3015/Backend_Dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vansh3015/Backend_Dev/issues"
+  },
+  "homepage": "https://github.com/Vansh3015/Backend_Dev#readme"
+}
